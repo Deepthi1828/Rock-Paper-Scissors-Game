@@ -4,32 +4,31 @@ A modern and interactive Rock Paper Scissors game built using HTML, CSS, and Jav
 
 ## 🚀 Features
 
-- User vs Computer Gameplay
-- Random Computer Choice Generation
-- Real-Time Score Tracking
-- Win / Lose / Draw Detection
-- Interactive User Interface
-- Responsive Design
-- Smooth Hover Effects
-- Modern Gaming-Themed UI
-- Reset Game Functionality
+* User vs Computer Gameplay
+* Random Computer Choice Generation
+* Real-Time Score Tracking
+* Win / Lose / Draw Detection
+* Interactive User Interface
+* Responsive Design
+* Smooth Hover Effects
+* Modern Gaming-Themed UI
+* Reset Game Functionality
 
 ## 🛠️ Technologies Used
 
-- HTML5
-- CSS3
-- JavaScript
+* HTML5
+* CSS3
+* JavaScript
 
 ## 🎯 Game Rules
 
-- Rock defeats Scissors
-- Scissors defeats Paper
-- Paper defeats Rock
-- If both choices are the same, the result is a Draw
+* Rock defeats Scissors
+* Scissors defeats Paper
+* Paper defeats Rock
+* If both choices are the same, the result is a Draw
 
 ## 📂 Project Structure
 
-```text
 Rock-Paper-Scissors-Game
 ├── index.html
 ├── style.css
@@ -38,4 +37,4 @@ Rock-Paper-Scissors-Game
 
 ## 👩‍💻 Author
 
-Deepthi
+**Deepthi**
