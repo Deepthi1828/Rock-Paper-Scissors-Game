@@ -29,11 +29,13 @@ A modern and interactive Rock Paper Scissors game built using HTML, CSS, and Jav
 
 ## 📂 Project Structure
 
-Rock-Paper-Scissors-Game
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+```text
+Rock-Paper-Scissors-Game/
+├── index.html      # Main HTML file
+├── style.css       # Styles for the game
+├── script.js       # Game logic and functionality
+└── README.md       # Project documentation
+```
 
 ## 👩‍💻 Author
 
